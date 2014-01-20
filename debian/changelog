@@ -1,3 +1,9 @@
+debathena-test (0.1-0debathena2) UNRELEASED; urgency=low
+
+  * Include the README file
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Mon, 20 Jan 2014 00:31:13 -0500
+
 debathena-test (0.1-0debathena1) unstable; urgency=low
 
   * Initial release
