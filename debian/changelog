@@ -1,3 +1,9 @@
+debathena-test (0.3-0debathena1) UNRELEASED; urgency=low
+
+  * Release version 0.3
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Mon, 20 Jan 2014 03:12:46 -0500
+
 debathena-test (0.2-0debathena1) unstable; urgency=low
 
   * Release version 0.2
