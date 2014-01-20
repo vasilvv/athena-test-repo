@@ -1,0 +1,14 @@
+Source: debathena-test
+Section: debathena/oter
+Priority: extra
+Maintainer: Victor Vasiliev <vasilvv@mit.edu>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+#Vcs-Git: git://git.debian.org/collab-maint/debathena-test.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/debathena-test.git;a=summary
+
+Package: debathena-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A test package
+ This is a test package. It exists purely for the purpose of testing
