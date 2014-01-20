@@ -1,6 +1,7 @@
 debathena-test (0.3-0debathena1) UNRELEASED; urgency=low
 
   * Release version 0.3
+  * Fix a typo in the section field
 
  -- Victor Vasiliev <vasilvv@mit.edu>  Mon, 20 Jan 2014 03:12:46 -0500
 

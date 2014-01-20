@@ -1,5 +1,5 @@
 Source: debathena-test
-Section: debathena/oter
+Section: debathena/other
 Priority: extra
 Maintainer: Victor Vasiliev <vasilvv@mit.edu>
 Build-Depends: debhelper (>= 8.0.0)
