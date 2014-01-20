@@ -1,4 +1,4 @@
-debathena-test (0.1-0debathena2) UNRELEASED; urgency=low
+debathena-test (0.1-0debathena2) unstable; urgency=low
 
   * Include the README file
 
